@@ -5,8 +5,4 @@ sqlalchemy
 psycopg2-binary
 python-multipart
 email-validator
-<<<<<<< HEAD
 requests
-=======
-requests
->>>>>>> 95f5dd8fecd2d0685c3f3b4e1e87bc7f5bb61af2
